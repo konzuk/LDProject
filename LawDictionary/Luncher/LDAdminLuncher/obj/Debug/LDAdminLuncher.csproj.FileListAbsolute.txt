@@ -1,0 +1,12 @@
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\bin\Debug\LDAdminLuncher.exe
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\bin\Debug\LDAdminLuncher.pdb
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\obj\Debug\LDAdminLuncher.Properties.Resources.resources
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\obj\Debug\LDAdminLuncher.csproj.GenerateResource.Cache
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\obj\Debug\LDAdminLuncher.exe
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\LDAdminLuncher\obj\Debug\LDAdminLuncher.pdb
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\bin\Debug\LDAdminLuncher.exe
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\bin\Debug\LDAdminLuncher.pdb
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\obj\Debug\LDAdminLuncher.Properties.Resources.resources
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\obj\Debug\LDAdminLuncher.csproj.GenerateResource.Cache
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\obj\Debug\LDAdminLuncher.exe
+C:\Users\konzuk\Documents\Visual Studio 2015\Projects\LawDictionary\Luncher\LDAdminLuncher\obj\Debug\LDAdminLuncher.pdb

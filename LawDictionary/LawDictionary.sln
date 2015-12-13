@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{FA406D51-468E-4E10-A636-B5770D0A99AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Luncher", "Luncher", "{89FDDBCC-6FCC-45A8-AA88-9F889020B935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawDictionary", "App\LawDictionary.csproj", "{9A10B1E5-254C-44BB-8E16-4C6B6E13636D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDAdminLuncher", "Luncher\LDAdminLuncher\LDAdminLuncher.csproj", "{39B770DB-6E4F-447A-8169-5E26BC24F0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A10B1E5-254C-44BB-8E16-4C6B6E13636D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A10B1E5-254C-44BB-8E16-4C6B6E13636D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A10B1E5-254C-44BB-8E16-4C6B6E13636D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A10B1E5-254C-44BB-8E16-4C6B6E13636D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B770DB-6E4F-447A-8169-5E26BC24F0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B770DB-6E4F-447A-8169-5E26BC24F0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B770DB-6E4F-447A-8169-5E26BC24F0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B770DB-6E4F-447A-8169-5E26BC24F0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A10B1E5-254C-44BB-8E16-4C6B6E13636D} = {FA406D51-468E-4E10-A636-B5770D0A99AF}
+		{39B770DB-6E4F-447A-8169-5E26BC24F0BC} = {89FDDBCC-6FCC-45A8-AA88-9F889020B935}
+	EndGlobalSection
+EndGlobal
